@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ryanz\\Downloads\\gson-2.6.2.jar",
+        "c:\\Users\\ryanz\\Downloads\\bcprov-jdk15on-159.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ]
+}
